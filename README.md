@@ -21,10 +21,11 @@ I will make the api call to localhost possible by having the multichaind service
 This will be optional in the future. 
 
 My Env:<br>
-Ubuntu 16.04<br>
+<a href="http://releases.ubuntu.com/16.04.3/ubuntu-16.04.3-desktop-amd64.iso?_ga=2.76030037.1722912274.1517293232-1500159376.1513966486">Ubuntu 16.04</a><br>
 <a href="https://www.multichain.com/download/multichain-2.0-alpha-2.tar.gz">MultiChain 2.0-alpha-2</a> (preview release)<br>
 <a href="https://github.com/electron/electron/releases/download/v1.8.2-beta.4/electron-v1.8.2-beta.4-linux-x64.zip">Electron v1.8.2-beta.4</a><br>
-Chromium v59.0.3071.115<br>
-Node v8.2.1<br>
-v8 v5.9.211.38<br>
+*Chromium v59.0.3071.115<br>
+*Node v8.2.1<br>
+*v8 v5.9.211.38<br>
 
+* Comes with Electron package.
