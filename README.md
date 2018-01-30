@@ -9,3 +9,13 @@ CoinSafe is a wallet for sending/receiving assets on MultiChain protocol blockch
 
 for adopting this wallet to your coorporate blockchain env;
 
+Action Plan for Development:
+#diagram goes here
+
+explanation of diagram, or if we are lucky a giphy. ;)
+
+electron app to make an api call to local host
+is what I have in my mind so far to make this happen.
+
+I will make the api call to localhost possible by having the multichaind service available and running locally. 
+This will be optional in the future. 
