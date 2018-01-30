@@ -13,18 +13,12 @@ for adopting this wallet to your coorporate blockchain env;
 Action Plan for Development:<br>
 #diagram goes here<br>
 explanation of diagram<br>
-<br>
-| Main          | Mod.          | Low   |
-| ------------- |:-------------:| -----:|
-| electron-app  | moar-work2d0  | ???   |
-| multichain-api| work2do       |       |
-<br>
 
 'electron app to make an api call to local host'
 is what I have in my mind so far to make this happen.
 
-I will make the api call to localhost possible by having the multichaind service available and running locally. 
-This will be optional in the future. 
+Will make the api call to localhost possible by having the multichaind (coinsafed) service available and running locally. 
+ 
 
 My Dev Env for this build:<br>
 <a href="http://releases.ubuntu.com/16.04.3/ubuntu-16.04.3-desktop-amd64.iso?_ga=2.76030037.1722912274.1517293232-1500159376.1513966486">Ubuntu 16.04</a><br>
