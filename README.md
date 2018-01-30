@@ -1,9 +1,10 @@
 # coinsafe 0.0.1
-an electron wallet for multichain blockchains<br>
+> an electron wallet for multichain blockchains<br>
 
 <img src="https://media.discordapp.net/attachments/407746101303836683/407768002281603072/Screen_Shot_2018-01-29_at_10.23.45_PM.png" height="250" width="250"><br>
 
-CoinSafe is a wallet for sending/receiving assets on MultiChain protocol blockchains. 
+CoinSafe is a wallet for sending/receiving assets <br>
+on MultiChain protocol blockchains. 
 
 <img src="https://media.discordapp.net/attachments/407746101303836683/407768113476796436/Screen_Shot_2018-01-29_at_10.24.24_PM.png" height="250" width="250"><br>
 
