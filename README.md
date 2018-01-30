@@ -21,7 +21,7 @@ I will make the api call to localhost possible by having the multichaind service
 This will be optional in the future. 
 
 For testing:<br>
-MultiChain 2.0-alpha-2 (preview release running on Ubuntu 16.04 linux)<br>
+<a href="https://www.multichain.com/download/multichain-2.0-alpha-2.tar.gz">MultiChain 2.0-alpha-2</a> (preview release running on Ubuntu 16.04 linux)<br>
 Electron v1.8.2-beta.4<br>
 Chromium v59.0.3071.115<br>
 Node v8.2.1<br>
