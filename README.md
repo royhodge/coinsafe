@@ -19,3 +19,11 @@ is what I have in my mind so far to make this happen.
 
 I will make the api call to localhost possible by having the multichaind service available and running locally. 
 This will be optional in the future. 
+
+For testing:
+MultiChain 2.0-alpha-2 (preview release running on Ubuntu 16.04 linux)
+Electron v1.8.2-beta.4
+Chromium v59.0.3071.115
+Node v8.2.1
+v8 v5.9.211.38
+
