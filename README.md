@@ -12,7 +12,13 @@ for adopting this wallet to your coorporate blockchain env;
 
 Action Plan for Development:<br>
 #diagram goes here<br>
-explanation of diagram, or if we are lucky a giphy. ;)
+explanation of diagram<br>
+<br>
+| Main          | Mod.          | Low   |
+| ------------- |:-------------:| -----:|
+| electron-app  | moar-work2d0  | ???   |
+| multichain-api| work2do       |       |
+<br>
 
 'electron app to make an api call to local host'
 is what I have in my mind so far to make this happen.
